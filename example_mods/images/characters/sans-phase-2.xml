@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sans-phase-2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sansp2 baixo 10000" x="0" y="0" width="316" height="353"/>
+	<SubTexture name="sansp2 baixo 20000" x="316" y="0" width="316" height="351"/>
+	<SubTexture name="sansp2 baixo 30000" x="632" y="0" width="316" height="349"/>
+	<SubTexture name="sansp2 cima 10000" x="948" y="0" width="412" height="380"/>
+	<SubTexture name="sansp2 cima 20000" x="1360" y="0" width="408" height="388"/>
+	<SubTexture name="sansp2 cima 30000" x="0" y="388" width="406" height="390"/>
+	<SubTexture name="sansp2 direita 10000" x="406" y="388" width="426" height="361"/>
+	<SubTexture name="sansp2 direita 20000" x="832" y="388" width="426" height="361"/>
+	<SubTexture name="sansp2 direita 30000" x="1258" y="388" width="426" height="361"/>
+	<SubTexture name="sansp2 esquerda 10000" x="0" y="778" width="417" height="357"/>
+	<SubTexture name="sansp2 esquerda 20000" x="417" y="778" width="420" height="357"/>
+	<SubTexture name="sansp2 esquerda 30000" x="837" y="778" width="421" height="357"/>
+	<SubTexture name="sansp2 idle 10000" x="1258" y="778" width="321" height="358"/>
+	<SubTexture name="sansp2 idle 20000" x="1579" y="778" width="330" height="359"/>
+	<SubTexture name="sansp2 idle 30000" x="0" y="1137" width="336" height="360"/>
+	<SubTexture name="sansp2 idle 40000" x="336" y="1137" width="342" height="361"/>
+</TextureAtlas>

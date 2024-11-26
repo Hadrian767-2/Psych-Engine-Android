@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sem título-1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sansp2 baixo 10000" x="0" y="0" width="327" height="355"/>
+	<SubTexture name="sansp2 baixo 20000" x="327" y="0" width="328" height="354"/>
+	<SubTexture name="sansp2 baixo 30000" x="655" y="0" width="328" height="352"/>
+	<SubTexture name="sansp2 baixo 40000" x="983" y="0" width="328" height="351"/>
+	<SubTexture name="sansp2 cima 10000" x="1311" y="0" width="379" height="411"/>
+	<SubTexture name="sansp2 cima 20000" x="0" y="411" width="371" height="415"/>
+	<SubTexture name="sansp2 cima 30000" x="371" y="411" width="366" height="419"/>
+	<SubTexture name="sansp2 cima 40000" x="737" y="411" width="361" height="418"/>
+	<SubTexture name="sansp2 direita 10000" x="1098" y="411" width="410" height="367"/>
+	<SubTexture name="sansp2 direita 20000" x="1508" y="411" width="405" height="367"/>
+	<SubTexture name="sansp2 direita 30000" x="0" y="830" width="393" height="367"/>
+	<SubTexture name="sansp2 direita 40000" x="393" y="830" width="388" height="367"/>
+	<SubTexture name="sansp2 esquerda 10000" x="781" y="830" width="372" height="350"/>
+	<SubTexture name="sansp2 esquerda 20000" x="1153" y="830" width="388" height="350"/>
+	<SubTexture name="sansp2 esquerda 30000" x="1541" y="830" width="408" height="350"/>
+	<SubTexture name="sansp2 esquerda 40000" x="0" y="1197" width="408" height="350"/>
+	<SubTexture name="sansp2 idle 10000" x="408" y="1197" width="316" height="361"/>
+	<SubTexture name="sansp2 idle 20000" x="724" y="1197" width="322" height="364"/>
+	<SubTexture name="sansp2 idle 30000" x="1046" y="1197" width="326" height="367"/>
+	<SubTexture name="sansp2 idle 40000" x="1372" y="1197" width="330" height="368"/>
+	<SubTexture name="sansp2 idle 50000" x="1702" y="1197" width="324" height="369"/>
+	<SubTexture name="sansp2 idle 60000" x="0" y="1566" width="318" height="369"/>
+</TextureAtlas>
